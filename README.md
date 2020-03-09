@@ -12,4 +12,5 @@ This package measure your network card can handle how much packet per a second.
     $ go run main.go -f test.pcap
     PCAP took 4m43.466932s
     136.31 packet per second
+    Average packet length is 169.95
 
